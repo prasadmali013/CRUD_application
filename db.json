@@ -1,0 +1,70 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "employees": [
+    {
+      "name": "Prasad Mali",
+      "salary": "15000",
+      "age": "22",
+      "dob": "2001-05-12T18:30:00.000Z",
+      "id": 1
+    },
+    {
+      "name": "Bhoomi khairnar ",
+      "salary": "12000",
+      "age": "21",
+      "dob": "2000-11-06T18:30:00.000Z",
+      "id": 3
+    },
+    {
+      "name": "chirag mali",
+      "salary": "10000",
+      "age": "20",
+      "dob": "2002-10-07T18:30:00.000Z",
+      "id": 4
+    },
+    {
+      "name": "Jyotsna khalane",
+      "salary": "10000",
+      "age": "25",
+      "dob": "1998-06-07T18:30:00.000Z",
+      "id": 5
+    },
+    {
+      "name": "Jalindar Chaure ",
+      "salary": "12000",
+      "age": "24",
+      "dob": "1997-06-18T18:30:00.000Z",
+      "id": 6
+    },
+    {
+      "name": "Swaraj kale",
+      "salary": "15000",
+      "age": "25",
+      "dob": "1998-11-17T18:30:00.000Z",
+      "id": 7
+    },
+    {
+      "name": "Tejas Pawar",
+      "salary": "10000",
+      "age": "23",
+      "dob": "2000-10-12T18:30:00.000Z",
+      "id": 8
+    }
+  ]
+}
